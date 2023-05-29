@@ -12,9 +12,9 @@
 
 
 <h1 align="center">Hi 👋, I'm Naveen Khan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+
+- 🌱 I’m currently learning **Flutter **
 
 - 📫 How to reach me **naveenkhan0059@gmail.com**
 
