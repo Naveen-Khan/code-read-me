@@ -1,8 +1,8 @@
 # code-read-me<div align="center" width="50">
   
   
-<div align="center">
- <img src=![image](https://github.com/Naveen-Khan/code-read-me/assets/125086326/5aa74fbf-d609-4d2b-a1a5-0b1cb38a19cd)href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/><br> 
+  
+ <img src=![image](https://github![image].com/Naveen-Khan/code-read-me/assets/125086326/5aa74fbf-d609-4d2b-a1a5-0b1cb38a19cd)href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/><br> 
   
 <div align="center">
 
