@@ -16,7 +16,7 @@
 <h1 align="center">Hi 👋, I'm Naveen Khan</h1>
 
 
-- 🌱 I’m currently learning **Flutter **
+<p>🌱 I’m currently learning **Flutter ** </p>
 
 - 📫 How to reach me **naveenkhan0059@gmail.com**
 
