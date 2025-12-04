@@ -51,13 +51,7 @@ Welcome to my GitHub profile! I'm a passionate Computer System Engineer who love
   <a href="(https://www.linkedin.com/in/naveen-khan-417103258?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40"/>
   </a>
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" width="40"/>
-  </a>
-  <a href="https://dev.to/yourhandle">
-    <img src="https://img.icons8.com/windows/48/000000/dev.png" alt="Dev.to" width="40"/>
-  </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:naveenkhan0059@gmail.com">
     <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" width="40"/>
   </a>
 </p>
