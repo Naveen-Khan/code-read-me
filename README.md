@@ -53,6 +53,11 @@ Yet another great project.
 
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue" alt="Profile views" />
+</p>
+
+
 ⭐️ *If you find my work interesting, consider giving my repositories a star!*
 
 ---
