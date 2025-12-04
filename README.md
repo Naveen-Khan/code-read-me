@@ -38,7 +38,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building inno
 ![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical)
 
 ## 📫 Connect With Me
-[![LinkedIn](https://www.linkedin.com/in/naveen-khan-417103258?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveen-khan-417103258?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:naveenkhan0059@gmail.com)
 
 ## 💼 Featured Projects
