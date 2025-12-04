@@ -54,6 +54,10 @@ Welcome to my GitHub profile! I'm a passionate Computer System Engineer who love
   </a>
 </p>
 
+## Education
+
+- **BE in Computer System Engineering** - Mehran University of Engineering and techology (fall 2025)
+
 
 <p align="center">
   <i>Open to interesting opportunities and collaborations</i>
