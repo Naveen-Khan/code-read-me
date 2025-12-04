@@ -19,25 +19,26 @@ Welcome to my GitHub profile! I'm a passionate Computer System Engineer who love
 - 💼 Currently working as/on: Web Developer
 - 🌱 Learning:I am currently learning AI
 - 👯 Looking to collaborate on: AI projects
-- ⚡ Fun fact: [I am passionate to learning new technology]
+- ⚡ Fun fact: I am passionate to learning new technology
 
 ## 🛠️ Tech Stack
+
 ## 🛠️ Tech Stack
 
-**Core Languages**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) 
-
-**Web Development**  
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=yellow) 
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) 
-
-**Databases**  
-![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=database&logoColor=white)
-
-
+<p align="center">
+  <b>Core Languages</b><br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <br><br>
+  <b>Web Development</b><br>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <br><br>
+  <b>Databases</b><br>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white"/>
+</p>
 
 
 ## 📫 Connect With Me
