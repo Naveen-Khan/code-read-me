@@ -1,4 +1,4 @@
-# code-read-me<div align="center" width="50">
+
   
 <div align="center">
 
@@ -16,9 +16,9 @@
 <h1 align="center">Hi 👋, I'm Naveen Khan</h1>
 
 
-<p>🌱 I’m currently learning **Flutter ** </p>
+-<p>🌱 I’m currently learning **Flutter ** </p>
 
-- 📫 How to reach me **naveenkhan0059@gmail.com**
+ 📫 How to reach me **naveenkhan0059@gmail.com**
 
 
 
