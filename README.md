@@ -2,14 +2,14 @@
 
 # 👋 Hello, I'm Naveen Khan!
 
-Welcome to my GitHub profile! I'm a passionate developer who loves building innovative solutions and contributing to open-source projects.
+Welcome to my GitHub profile! I'm a passionate Computer System Engineer who loves to building innovative solutions and contributing to open-source projects.
 
 ## 🚀 About Me
 - 💼 Currently working as/on: [Your Role/Project]
 - 🌱 Learning: [Technologies you're learning]
 - 👯 Looking to collaborate on: [Types of projects]
 - 💬 Ask me about: [Your expertise]
-- ⚡ Fun fact: [Something interesting about you]
+- ⚡ Fun fact: [I am passionate to learning new technology]
 
 ## 🛠️ Tech Stack
 **Languages:**
