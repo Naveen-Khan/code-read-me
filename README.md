@@ -35,7 +35,7 @@ Welcome to my GitHub profile! I'm a passionate Computer System Engineer who love
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
 
 **Databases**  
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
+![NYSQL](https://img.shields.io/badge/MYSQL-003B57?style=for-the-badge&logo=database&logoColor=white)
 
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveen-khan-417103258?utm_source=share_via&utm_content=profile&utm_medium=member_android)
