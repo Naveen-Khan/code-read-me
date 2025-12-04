@@ -16,21 +16,26 @@
 Welcome to my GitHub profile! I'm a passionate Computer System Engineer who loves to building innovative solutions and contributing to open-source projects.
 
 ## 🚀 About Me
-- 💼 Currently working as/on: [Your Role/Project]
-- 🌱 Learning: [Technologies you're learning]
-- 👯 Looking to collaborate on: [Types of projects]
-- 💬 Ask me about: [Your expertise]
+- 💼 Currently working as/on: Web Developer
+- 🌱 Learning:I am currently learning AI
+- 👯 Looking to collaborate on: AI projects
 - ⚡ Fun fact: [I am passionate to learning new technology]
 
 ## 🛠️ Tech Stack
-**Languages:**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
+## 🛠️ Tech Stack
+
+**Core Languages**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) 
+
+**Web Development**  
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=yellow) 
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) 
+
+**Databases**  
 ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=database&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-style=flat&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
 
 
