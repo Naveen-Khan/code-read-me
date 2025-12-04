@@ -44,8 +44,6 @@ Welcome to my GitHub profile! I'm a passionate Computer System Engineer who love
 
 
 ## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveen-khan-417103258?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:naveenkhan0059@gmail.com)
 
 <p align="left">
   <a href="https://www.linkedin.com/in/naveen-khan-417103258?utm_source=share_via&utm_content=profile&utm_medium=member_android">
@@ -55,24 +53,10 @@ Welcome to my GitHub profile! I'm a passionate Computer System Engineer who love
     <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" width="40"/>
   </a>
 </p>
-## 💼 Featured Projects
-### 🔥 [Project 1](https://github.com/YOUR_USERNAME/PROJECT_1)
-Brief description of your project. What it does, technologies used, etc.
 
-### ⭐ [Project 2](https://github.com/YOUR_USERNAME/PROJECT_2)
-Another awesome project description.
-
-### 🚀 [Project 3](https://github.com/YOUR_USERNAME/PROJECT_3)
-Yet another great project.
-
----
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue" alt="Profile views" />
+  <i>Open to interesting opportunities and collaborations</i>
 </p>
 
-
-⭐️ *If you find my work interesting, consider giving my repositories a star!*
-
----
 
