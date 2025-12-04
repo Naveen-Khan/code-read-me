@@ -18,7 +18,8 @@
 
 -<p>🌱 I’m currently learning **Flutter ** </p>
 
- 📫 How to reach me **naveenkhan0059@gmail.com**
+ 📫 How to reach me 
+ **naveenkhan0059@gmail.com**
 
 
 
