@@ -47,6 +47,20 @@ Welcome to my GitHub profile! I'm a passionate Computer System Engineer who love
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveen-khan-417103258?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:naveenkhan0059@gmail.com)
 
+<p align="left">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/naveen-khan-417103258?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40"/>
+  </a>
+  <a href="https://twitter.com/yourhandle">
+    <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" width="40"/>
+  </a>
+  <a href="https://dev.to/yourhandle">
+    <img src="https://img.icons8.com/windows/48/000000/dev.png" alt="Dev.to" width="40"/>
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" width="40"/>
+  </a>
+</p>
 ## 💼 Featured Projects
 ### 🔥 [Project 1](https://github.com/YOUR_USERNAME/PROJECT_1)
 Brief description of your project. What it does, technologies used, etc.
