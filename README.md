@@ -38,10 +38,8 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building inno
 ![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical)
 
 ## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/YOUR_HANDLE)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![LinkedIn](https://www.linkedin.com/in/naveen-khan-417103258?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:naveenkhan0059@gmail.com)
 
 ## 💼 Featured Projects
 ### 🔥 [Project 1](https://github.com/YOUR_USERNAME/PROJECT_1)
@@ -59,8 +57,3 @@ Yet another great project.
 
 ---
 
-**Note:** Make sure to replace all placeholders with your actual information.
-
-*Last updated on: INSERT_DATE_HERE*
-
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME)](https://github.com/YOUR_USERNAME)
