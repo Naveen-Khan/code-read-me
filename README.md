@@ -7,7 +7,9 @@
 </div>
 
 
-# 👋 Hello, I'm Naveen Khan!
+# 👋 Hello, I'm Naveen Khan!   
+</div>
+
 
 Welcome to my GitHub profile! I'm a passionate Computer System Engineer who loves to building innovative solutions and contributing to open-source projects.
 
