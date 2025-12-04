@@ -48,7 +48,7 @@ Welcome to my GitHub profile! I'm a passionate Computer System Engineer who love
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:naveenkhan0059@gmail.com)
 
 <p align="left">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/naveen-khan-417103258?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+  <a href="https://linkedin.com/in/https://Naveen Khan">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40"/>
   </a>
   <a href="https://twitter.com/yourhandle">
