@@ -4,7 +4,7 @@
     
 
   
-<div align="center">
+</div>
 
 
 # 👋 Hello, I'm Naveen Khan!
